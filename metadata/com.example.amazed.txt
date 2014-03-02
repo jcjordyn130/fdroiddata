@@ -1,0 +1,27 @@
+Categories:Games
+License:Apache2
+Web Site:http://code.google.com/p/apps-for-android/
+Source Code:http://code.google.com/p/apps-for-android/source/browse/
+Issue Tracker:http://code.google.com/p/apps-for-android/issues/list
+
+Auto Name:Amazed
+Summary:Marble game
+Description:
+Navigate the white marble through the maze, stay away from the black "void".
+Move the marble by tilting the device in the direction you wish to travel,
+tilting to the left will roll the marble left. The exit area is represented
+with light blue tiles.
+.
+
+Repo Type:git
+Repo:https://code.google.com/p/apps-for-android/
+
+Build:2.0.2,2
+    commit=3c3df192a38f
+    subdir=Amazed
+
+Auto Update Mode:None
+Update Check Mode:RepoManifest
+Current Version:2.0.2
+Current Version Code:2
+
