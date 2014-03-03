@@ -1,0 +1,27 @@
+Disabled:UpstreamNonFree, missing libs
+AntiFeatures:
+Categories:News,Internet
+License:CC-BY-NC-SA4
+Web Site:https://github.com/barbogogo/leedReader
+Source Code:https://github.com/barbogogo/leedReader
+Issue Tracker:https://github.com/barbogogo/leedReader/issues
+Donate:
+
+Summary:Reader for leed rss/atom agregator
+Description:
+Reader for leed rss/atom agregator.
+.
+
+Repo Type:git
+Repo:https://github.com/barbogogo/leedReader.git
+
+Build:1.7 Beta,1
+    commit=d9d102a0374c25506898930d4ad8b6ad611d9555
+    subdir=LeedReader
+    target=android-19
+    srclibs=1:appcompat@ad5a63f
+    prebuild=mkdir libs; cp $$appcompat$$/libs/android-support-v4.jar libs/ 
+
+Update Check Mode:None
+Auto Update Mode:None
+
