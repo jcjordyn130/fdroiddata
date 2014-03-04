@@ -20,13 +20,13 @@ TextSecure provides:
 Repo Type:git
 Repo:https://github.com/WhisperSystems/TextSecure.git
 
-Build:2.0.3,66
-    commit=v1.0.6
+Build:2.0.4,67
+    commit=v2.0.4
     gradle=yes
     extlibs=android/android-support-v4.jar
 
 Auto Update Mode:Version v%c
 Update Check Mode:Tags
-Current Version:2.0.3
-Current Version Code:66
+Current Version:2.0.4
+Current Version Code:67
 
