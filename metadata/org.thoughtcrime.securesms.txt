@@ -1,0 +1,32 @@
+Disabled:See https://f-droid.org/forums/topic/textsecure/page/2/
+AntiFeatures:Tracking,NonFreeDep,NonFreeNet
+Categories:Phone & SMS
+License:GPLv3+
+Web Site:https://whispersystems.org/
+Source Code:https://github.com/WhisperSystems/TextSecure/
+Issue Tracker:https://github.com/WhisperSystems/TextSecure/issues
+
+Auto Name:TextSecure
+Summary:A secure text messaging application for Android
+Description:
+TextSecure is a replacement for the standard text messaging application,
+allowing you to send and receive text messages as normal. Additionally,
+TextSecure provides:
+
+* Local Encryption -- All text messages, regardless of destination, that are sent or received with TextSecure are stored in an encrypted database on your phone.
+* Wire Encryption -- When communicating with a recipient who is also using TextSecure, text messages are encrypted during transmission.
+.
+
+Repo Type:git
+Repo:https://github.com/WhisperSystems/TextSecure.git
+
+Build:2.0.3,66
+    commit=v1.0.6
+    gradle=yes
+    extlibs=android/android-support-v4.jar
+
+Auto Update Mode:Version v%c
+Update Check Mode:Tags
+Current Version:2.0.3
+Current Version Code:66
+
