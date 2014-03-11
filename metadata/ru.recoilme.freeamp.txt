@@ -1,0 +1,26 @@
+Disabled:Lot's of jars, FlurryAgent, native libs, and BASS library is "free of charge for non commercial" => not free
+AntiFeatures:NonFreeDep
+Categories:Multimedia
+License:Apache2
+Web Site:https://bitbucket.org/recoilme/freeamp
+Source Code:https://bitbucket.org/recoilme/freeamp/src
+Issue Tracker:https://bitbucket.org/recoilme/freeamp/issues
+
+Auto Name:FreeAmp
+Summary:Mediaplayer with a minimalistic UI
+Description:
+Mediaplayer with a minimalistic UI. Based on BASS library.
+.
+
+Repo Type:git
+Repo:https://bitbucket.org/recoilme/freeamp.git
+
+Build:1.2.2,122
+    commit=315b115
+    buildjni=yes
+
+Auto Update Mode:None
+Update Check Mode:RepoManifest
+Current Version:1.2.2
+Current Version Code:122
+
