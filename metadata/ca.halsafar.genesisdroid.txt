@@ -1,0 +1,21 @@
+AntiFeatures:
+Categories:Games
+License:GPLv2
+Web Site:https://code.google.com/p/genplus-droid/
+Source Code:https://code.google.com/p/genplus-droid/source/browse/
+Issue Tracker:https://code.google.com/p/genplus-droid/issues/list
+Donate:
+
+Summary:Genesis (Sega Mega Drive) emulator
+Description:
+A fully functional emulator of Genesis Plus powered by GENPlus.
+.
+
+Repo Type:git
+Repo:https://code.google.com/p/genplus-droid/
+
+Build:
+    commit=
+
+Update Check Mode:
+
