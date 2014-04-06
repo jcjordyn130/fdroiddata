@@ -1,0 +1,41 @@
+Disabled:wip
+Categories:System
+License:Apache2
+Web Site:http://repo.xposed.info/
+Source Code:https://github.com/rovo89/XposedInstaller
+Issue Tracker:https://github.com/rovo89/XposedInstaller/issues
+
+Auto Name:Xposed Installer
+Summary:Xposed framework installer
+Description:
+Xposed is a framework for modules that can change the behavior of the
+system and apps without touching any APKs. That's great because it
+means that modules can work for different versions and even ROMs without
+any changes (as long as the original code was not changed too much). It's
+also easy to undo. As all changes are done in the memory, you just need
+to deactivate the module and reboot to get your original system back.
+There are many other advantages, but here is just one more: Multiple
+modules can do changes to the same part of the system or app. With
+modified APKs, you to decide for one. No way to combine them, unless
+the author builds multiple APKs with different combinations.
+.
+
+Repo Type:git
+Repo:https://github.com/rovo89/XposedInstaller.git
+
+Build:2.4.1,25
+    commit=2.4.1
+    target=android-19
+
+Maintainer Notes:
+XposedBridge https://github.com/rovo89/XposedBridge
+StickyListHeaders https://github.com/emilsjolander/StickyListHeaders
+libSupeUser https://github.com/Chainfire/libsuperuser
+AndroidHiddenApi ???
+.
+
+Auto Update Mode:Version %v
+Update Check Mode:Tags
+Current Version:2.4.1
+Current Version Code:25
+
