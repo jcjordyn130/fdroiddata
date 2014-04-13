@@ -1,0 +1,33 @@
+Categories:Multimedia
+License:MIT
+Web Site:https://github.com/happyxgang/EchoPrintAndroid
+Source Code:https://github.com/happyxgang/EchoPrintAndroid/tree/master/EchoprintTest
+Issue Tracker:https://github.com/happyxgang/EchoPrintAndroid/issues
+
+Auto Name:EchoprintTest
+Summary:Music fingerprinting and indentification
+Description:
+Music identification and fingerprinting system which is powered by The Echo
+Nest in partnership with Musicbrainz. 
+.
+
+Repo Type:git
+Repo:https://github.com/happyxgang/EchoPrintAndroid.git
+
+Build:1.0,1
+    disable=todo
+    commit=41b72fdbe4adf9b794c16a622c25d014744efffa
+    subdir=EchoprintTest
+    buildjni=yes
+
+Maintainer Notes:
+- nonfreenet?
+- https://f-droid.org/forums/topic/echoprint/
+
+.
+
+Auto Update Mode:None
+Update Check Mode:RepoManifest
+Current Version:1.0
+Current Version Code:1
+

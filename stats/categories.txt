@@ -1,17 +1,14 @@
 Development 38
 Phone & SMS 29
 Wallpaper 46
-Office 242
-Science & Education 63
-Multimedia 131
-System 232
-Mathematics 2
-Games 139
-Media 1
-Internet 152
-None 4
-News 2
+Office 244
+Science & Education 65
+Multimedia 133
+System 237
+Games 140
+Internet 153
+None 3
 Security 17
 Reading 41
-Navigation 96
+Navigation 98
 Children 3

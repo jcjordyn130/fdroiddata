@@ -1,10 +1,10 @@
+fr.xtof54.dragonGoApp
+org.tamanegi.atmosphere
+indrora.atomic
+com.lligainterm
+de.k3b.android.calendar.ics.adapter
+julianwi.javainstaller
+com.f0x.eddymalou
 com.glanznig.beepme
 com.uberspot.a2048
 com.namsor.api.samples.gendre
-com.example.sshtry
-com.xmission.trevin.android.todo
-org.poirsouille.tinc_gui
-com.ridgelineapps.resdicegame
-com.tobiaskuban.android.monthcalendarwidgetfoss
-com.boombuler.piraten.map
-com.boztalay.puppyframeuid

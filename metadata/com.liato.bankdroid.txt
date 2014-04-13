@@ -140,8 +140,16 @@ Build:1.9.6.8,178
     commit=v1.9.6.8
     gradle=yes
 
-Auto Update Mode:None
+Build:1.9.6.10,180
+    commit=v1.9.6.10
+    gradle=yes
+
+Build:1.9.6.11,181
+    commit=v1.9.6.11
+    gradle=yes
+
+Auto Update Mode:Version v%v
 Update Check Mode:Tags
-Current Version:1.9.6.10
-Current Version Code:180
+Current Version:1.9.6.11
+Current Version Code:181
 

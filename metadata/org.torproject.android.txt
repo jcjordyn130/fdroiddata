@@ -45,14 +45,22 @@ Build:0.2.3.23-rc-1.0.11-RC5-test2,51
         make -C external
 
 Build:13.0.5,70
-    commit=03667e2c916fe6ed091c0e9
+    commit=13.0.5
     submodules=yes
     rm=libs
     patch=buildfixes.patch
     build=NDK_BASE=$$NDK$$ make -C external
 
+Build:13.0.6-RC-1,79
+    commit=13.0.6-RC-1
+    submodules=yes
+    rm=libs,external/superuser-commands/RootCommands-Demo/libs
+    prebuild=echo 'target=android-17' >> external/superuser-commands/RootCommands-Library/project.properties && \
+        mkdir libs
+    build=NDK_BASE=$$NDK$$ make -C external
+
 Auto Update Mode:None
-Update Check Mode:RepoManifest
-Current Version:13.0.6
-Current Version Code:71
+Update Check Mode:Tags
+Current Version:13.0.6-RC-1
+Current Version Code:79
 
