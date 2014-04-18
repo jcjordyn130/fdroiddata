@@ -1,0 +1,37 @@
+AntiFeatures:
+Categories:Navigation
+License:GPLv3
+Web Site:http://www.opensciencemap.org/
+Source Code:https://github.com/opensciencemap/vtm
+Issue Tracker:https://github.com/opensciencemap/vtm/issues
+Donate:
+
+Summary:
+Description:
+.
+
+Repo Type:git
+Repo:https://github.com/opensciencemap/vtm.git
+
+Build:0.5.9999,10
+    disable=
+    commit=15023432ccba024ff8f1a60ef3f2f746078105ae
+    init=git submodule init && git submodule update
+    submodules=yes
+    subdir=vtm-android-app
+    gradle=yes
+    buildjni=yes
+
+Maintainer Notes:
+Confusing structure. The android app(https://github.com/opensciencemap/vtm-app.git) 
+is a sub of the main project (https://github.com/opensciencemap/vtm.git). Also, the
+project consists of 
+
+vectortilemap
+opensciencemap
+opensciencemap-test
+
+.
+
+Update Check Mode:None
+
