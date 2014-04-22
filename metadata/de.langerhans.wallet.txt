@@ -1,0 +1,33 @@
+Categories:Office
+License:GPLv3
+Web Site:https://langerhans.github.io/dogecoin-wallet-new/
+Source Code:https://github.com/langerhans/dogecoin-wallet-new
+Issue Tracker:https://github.com/langerhans/dogecoin-wallet-new/issues
+
+Auto Name:Bitcoin
+Summary:Store digital currency
+Description:
+dodgecoin
+.
+
+Repo Type:git
+Repo:https://github.com/langerhans/dogecoin-wallet-new.git
+
+Build:1.04,154
+    disable=binaries, doesn't build
+    commit=a95e0902d7520d7788c4e2a7b152ca781b032826
+    subdir=wallet
+    maven=yes@..
+    srclibs=BitcoinJWallet@v0.11.1
+    prebuild=cp -r $$BitcoinJWallet$$/ BitcoinJWallet
+    build=$$MVN3$$ clean install -DskipTests -f BitcoinJWallet/pom.xml
+    scanignore=wallet
+
+Maintainer Notes:
+* Package Id mismatch
+* see SchildbachWallet for more instructions
+.
+
+Auto Update Mode:None
+Update Check Mode:RepoManifest/prod
+
