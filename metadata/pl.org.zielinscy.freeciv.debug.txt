@@ -1,0 +1,35 @@
+Categories:Games
+License:GPLv2
+Web Site:http://www.civsync.com/
+Source Code:https://github.com/zielmicha/freeciv-android
+Issue Tracker:https://github.com/zielmicha/freeciv-android/issues
+
+Auto Name:Freeciv Debug
+Summary:Strategy game
+Description:
+Empire-building strategy game inspired by the history of human civilization.
+The game commences in prehistory and your mission is to lead your tribe from
+the Stone Age to the Space Age.
+.
+
+Repo Type:git
+Repo:https://github.com/zielmicha/freeciv-android.git
+
+Build:1.0,1
+    disable=jars,
+    commit=
+    subdir=android/project
+    submodules=yes
+    buildjni=yes
+
+Maintainer Notes:
+
+Build for Android (put android, adb and ndk-build in your PATH):
+   make -C android debug
+.
+
+#Auto Update Mode:Version version_%c
+Update Check Mode:Tags
+Current Version:1.0
+Current Version Code:1
+
