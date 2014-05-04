@@ -3,12 +3,12 @@ GPL 36
 Expat 1
 GNUFDL 1
  3
-GPLv3+ 105
+GPLv3+ 106
 Unknown 8
 GPLv2 71
-GPLv3 472
+GPLv3 474
 GPL/MPL 1
-Apache2 290
+Apache2 293
 NYSLv0.9982 1
 EPL 1
 PublicDomain 1
@@ -24,7 +24,7 @@ GNUFDL/CCBYSA 1
 CCBYNCSA3 1
 Fair License 1
 FreeBSD 2
-BSD 3
+BSD 4
 Beer License 2
 GPLv2+ 38
 Unlicense/Apache2 1

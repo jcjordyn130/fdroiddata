@@ -172,12 +172,14 @@ Build:2.21.0,22100
 
 Build:2.22.1,22201
     commit=2.22.1
-    update=.,ActionBarSherlock/library,ViewPagerIndicator/library,FileSelector
-    rm=libs/android-support-v4.jar
-    buildjni=no
+    rm=jni
+
+Build:2.23.0,22300
+    commit=2.23.0
+    rm=jni
 
 Auto Update Mode:None
 Update Check Mode:Tags
-Current Version:2.22.1
-Current Version Code:22201
+Current Version:2.23.0
+Current Version Code:22300
 

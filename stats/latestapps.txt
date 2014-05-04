@@ -1,10 +1,10 @@
+ru.sash0k.bluetooth_terminal
+com.miqote.brswp
+se.norenh.rkfread
+de.boesling.hydromemo
+com.michaldabski.filemanager
+isn.fly.speedmeter
+com.xargsgrep.portknocker
 eu.siacs.conversations
 de.steinpfeffer.rdt
 pl.narfsoftware.thermometer
-com.earthblood.tictactoe
-com.code.android.vibevault
-fr.xtof54.dragonGoApp
-org.tamanegi.atmosphere
-indrora.atomic
-com.lligainterm
-de.k3b.android.calendar.ics.adapter

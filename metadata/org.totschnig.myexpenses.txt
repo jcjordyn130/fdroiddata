@@ -186,8 +186,16 @@ Build:2.0.2.1,131
     commit=r131
     gradle=yes
 
+Build:2.1.0.2,135
+    commit=r135
+    gradle=yes
+
+Build:2.1.1,136
+    commit=r136
+    gradle=yes
+
 Auto Update Mode:Version r%c
 Update Check Mode:Tags
-Current Version:2.0.2.1
-Current Version Code:131
+Current Version:2.1.1
+Current Version Code:136
 

@@ -251,6 +251,7 @@ au.com.darkside.XServer_17.apk au.com.darkside.XServer 2014-01-15
 au.com.darkside.XServer_18.apk au.com.darkside.XServer 2014-04-01
 au.com.darkside.XServer_19.apk au.com.darkside.XServer 2014-04-13
 au.com.darkside.XServer_2.apk au.com.darkside.XServer 2012-03-06
+au.com.darkside.XServer_20.apk au.com.darkside.XServer 2014-04-15
 au.com.darkside.XServer_9.apk au.com.darkside.XServer 2012-08-13
 au.com.wallaceit.reddinator_9.apk au.com.wallaceit.reddinator 2014-03-03
 aws.apps.androidDrawables_7.apk aws.apps.androidDrawables 2012-09-18
@@ -318,6 +319,7 @@ ch.blinkenlights.android.vanilla_920.apk ch.blinkenlights.android.vanilla 2013-0
 ch.blinkenlights.android.vanilla_921.apk ch.blinkenlights.android.vanilla 2013-06-15
 ch.blinkenlights.android.vanilla_922.apk ch.blinkenlights.android.vanilla 2013-07-13
 ch.blinkenlights.android.vanilla_923.apk ch.blinkenlights.android.vanilla 2013-09-01
+ch.blinkenlights.android.vanilla_924.apk ch.blinkenlights.android.vanilla 2014-04-19
 ch.blinkenlights.battery_1335983644.apk ch.blinkenlights.battery 2012-08-23
 ch.dissem.android.drupal_17.apk ch.dissem.android.drupal 2014-03-05
 ch.fixme.cowsay_4.apk ch.fixme.cowsay 2012-10-10
@@ -792,6 +794,7 @@ com.glanznig.beepme_18.apk com.glanznig.beepme 2014-03-30
 com.glanznig.beepme_19.apk com.glanznig.beepme 2014-03-31
 com.glanznig.beepme_20.apk com.glanznig.beepme 2014-04-02
 com.glanznig.beepme_21.apk com.glanznig.beepme 2014-04-07
+com.glanznig.beepme_22.apk com.glanznig.beepme 2014-04-18
 com.gluegadget.hndroid_3.apk com.gluegadget.hndroid 2012-08-23
 com.gmail.altakey.effy_9.apk com.gmail.altakey.effy 2012-09-22
 com.gmail.charleszq_19.apk com.gmail.charleszq 2012-09-07
@@ -867,6 +870,8 @@ com.googlecode.networklog_21800.apk com.googlecode.networklog 2013-05-01
 com.googlecode.networklog_22000.apk com.googlecode.networklog 2013-10-01
 com.googlecode.networklog_22001.apk com.googlecode.networklog 2013-10-06
 com.googlecode.networklog_22100.apk com.googlecode.networklog 2013-11-22
+com.googlecode.networklog_22201.apk com.googlecode.networklog 2014-04-15
+com.googlecode.networklog_22300.apk com.googlecode.networklog 2014-04-22
 com.googlecode.openwnn.legacy_133.apk com.googlecode.openwnn.legacy 2012-11-26
 com.googlecode.tcime_113.apk com.googlecode.tcime 2012-11-30
 com.gpl.rpg.AndorsTrail_20.apk com.gpl.rpg.AndorsTrail 2011-10-02
@@ -974,6 +979,7 @@ com.jlyr_36.apk com.jlyr 2013-05-28
 com.jlyr_41.apk com.jlyr 2014-03-15
 com.jmartin.temaki_11.apk com.jmartin.temaki 2013-12-11
 com.jmartin.temaki_12.apk com.jmartin.temaki 2014-03-12
+com.jmartin.temaki_15.apk com.jmartin.temaki 2014-04-15
 com.jonglen7.jugglinglab_3.apk com.jonglen7.jugglinglab 2013-12-15
 com.jonglen7.jugglinglab_4.apk com.jonglen7.jugglinglab 2014-01-08
 com.jonglen7.jugglinglab_5.apk com.jonglen7.jugglinglab 2014-03-08
@@ -1087,7 +1093,9 @@ com.menny.android.anysoftkeyboard_77.apk com.menny.android.anysoftkeyboard 2012-
 com.menny.android.anysoftkeyboard_85.apk com.menny.android.anysoftkeyboard 2013-01-31
 com.menny.android.anysoftkeyboard_95.apk com.menny.android.anysoftkeyboard 2013-03-13
 com.menny.android.anysoftkeyboard_98.apk com.menny.android.anysoftkeyboard 2013-05-04
+com.michaldabski.filemanager_5.apk com.michaldabski.filemanager 2014-04-15
 com.midisheetmusic_8.apk com.midisheetmusic 2012-11-05
+com.miqote.brswp_13.apk com.miqote.brswp 2014-04-17
 com.miracleas.bitcoin_spinner_32.apk com.miracleas.bitcoin_spinner 2012-09-07
 com.miracleas.bitcoin_spinner_33.apk com.miracleas.bitcoin_spinner 2012-09-11
 com.miracleas.bitcoin_spinner_34.apk com.miracleas.bitcoin_spinner 2012-09-28
@@ -1115,6 +1123,7 @@ com.morlunk.mumbleclient_58.apk com.morlunk.mumbleclient 2014-03-18
 com.morlunk.mumbleclient_59.apk com.morlunk.mumbleclient 2014-03-20
 com.morlunk.mumbleclient_60.apk com.morlunk.mumbleclient 2014-04-01
 com.morlunk.mumbleclient_62.apk com.morlunk.mumbleclient 2014-04-12
+com.morlunk.mumbleclient_63.apk com.morlunk.mumbleclient 2014-04-20
 com.morphoss.acal_14.apk com.morphoss.acal 2011-03-27
 com.morphoss.acal_15.apk com.morphoss.acal 2011-03-29
 com.morphoss.acal_16.apk com.morphoss.acal 2011-04-03
@@ -1299,6 +1308,8 @@ com.plusonelabs.calendar_16.apk com.plusonelabs.calendar 2013-11-18
 com.plusonelabs.calendar_19.apk com.plusonelabs.calendar 2014-01-14
 com.plusonelabs.calendar_20.apk com.plusonelabs.calendar 2014-01-20
 com.plusonelabs.calendar_21.apk com.plusonelabs.calendar 2014-01-28
+com.plusonelabs.calendar_22.apk com.plusonelabs.calendar 2014-04-18
+com.plusonelabs.calendar_23.apk com.plusonelabs.calendar 2014-04-18
 com.polipoid_2.apk com.polipoid 2013-10-01
 com.politedroid_3.apk com.politedroid 2012-08-29
 com.politedroid_4.apk com.politedroid 2012-08-29
@@ -1425,6 +1436,7 @@ com.threedlite.urforms_12.apk com.threedlite.urforms 2012-10-01
 com.threedlite.urforms_14.apk com.threedlite.urforms 2012-10-22
 com.threedlite.userhash.location_2.apk com.threedlite.userhash.location 2013-12-09
 com.timvdalen.gizmooi_5.apk com.timvdalen.gizmooi 2014-03-27
+com.tinkerlog.android.pongtime_2.apk com.tinkerlog.android.pongtime 2014-04-22
 com.tkjelectronics.balanduino_1000050.apk com.tkjelectronics.balanduino 2014-01-14
 com.tkjelectronics.balanduino_1200050.apk com.tkjelectronics.balanduino 2014-01-14
 com.tmarki.comicmaker_33.apk com.tmarki.comicmaker 2013-02-14
@@ -1531,6 +1543,7 @@ com.write.Quill_41.apk com.write.Quill 2013-09-20
 com.xabber.androiddev_78.apk com.xabber.androiddev 2013-01-31
 com.xabber.androiddev_80.apk com.xabber.androiddev 2013-09-05
 com.xabber.androiddev_81.apk com.xabber.androiddev 2013-09-23
+com.xargsgrep.portknocker_4.apk com.xargsgrep.portknocker 2014-04-15
 com.xatik.app.droiddraw.client_4.apk com.xatik.app.droiddraw.client 2012-09-08
 com.xlythe.minecraftclock_4.apk com.xlythe.minecraftclock 2013-06-26
 com.xmission.trevin.android.todo_1.apk com.xmission.trevin.android.todo 2014-03-28
@@ -1601,6 +1614,7 @@ de.azapps.mirakelandroid_4.apk de.azapps.mirakelandroid 2013-08-28
 de.azapps.mirakelandroid_40.apk de.azapps.mirakelandroid 2014-02-20
 de.azapps.mirakelandroid_43.apk de.azapps.mirakelandroid 2014-03-22
 de.azapps.mirakelandroid_5.apk de.azapps.mirakelandroid 2013-10-01
+de.azapps.mirakelandroid_50.apk de.azapps.mirakelandroid 2014-04-22
 de.azapps.mirakelandroid_6.apk de.azapps.mirakelandroid 2013-10-16
 de.azapps.mirakelandroid_7.apk de.azapps.mirakelandroid 2013-11-02
 de.azapps.mirakelandroid_8.apk de.azapps.mirakelandroid 2013-11-04
@@ -1625,6 +1639,8 @@ de.blinkt.openvpn_86.apk de.blinkt.openvpn 2014-01-24
 de.blinkt.openvpn_90.apk de.blinkt.openvpn 2014-02-19
 de.blinkt.openvpn_91.apk de.blinkt.openvpn 2014-03-05
 de.blinkt.openvpn_92.apk de.blinkt.openvpn 2014-03-20
+de.boesling.hydromemo_4141010.apk de.boesling.hydromemo 2014-04-22
+de.boesling.hydromemo_414109.apk de.boesling.hydromemo 2014-04-16
 de.cketti.dashclock.k9_1.apk de.cketti.dashclock.k9 2013-06-30
 de.cketti.dashclock.k9_104000.apk de.cketti.dashclock.k9 2013-12-24
 de.cketti.dashclock.k9_2.apk de.cketti.dashclock.k9 2013-07-02
@@ -1688,6 +1704,7 @@ de.homac.Mirrored_9.apk de.homac.Mirrored 2012-09-07
 de.j4velin.systemappmover_19.apk de.j4velin.systemappmover 2014-01-28
 de.j4velin.systemappmover_20.apk de.j4velin.systemappmover 2014-02-05
 de.j4velin.wifiAutoOff_10.apk de.j4velin.wifiAutoOff 2014-03-15
+de.j4velin.wifiAutoOff_136.apk de.j4velin.wifiAutoOff 2014-04-18
 de.j4velin.wifiAutoOff_8.apk de.j4velin.wifiAutoOff 2014-01-20
 de.j4velin.wifiAutoOff_9.apk de.j4velin.wifiAutoOff 2014-02-05
 de.jdsoft.law_11.apk de.jdsoft.law 2013-08-27
@@ -1957,6 +1974,8 @@ eu.e43.impeller_8005.apk eu.e43.impeller 2013-12-22
 eu.e43.impeller_8006.apk eu.e43.impeller 2014-01-20
 eu.e43.impeller_8007.apk eu.e43.impeller 2014-02-24
 eu.e43.impeller_9.apk eu.e43.impeller 2013-06-13
+eu.e43.impeller_9001.apk eu.e43.impeller 2014-04-19
+eu.e43.impeller_9002.apk eu.e43.impeller 2014-04-19
 eu.flatworld.android.slider_3.apk eu.flatworld.android.slider 2013-03-09
 eu.hydrologis.geopaparazzi_30.apk eu.hydrologis.geopaparazzi 2012-09-07
 eu.hydrologis.geopaparazzi_31.apk eu.hydrologis.geopaparazzi 2012-09-07
@@ -2118,6 +2137,7 @@ in.shick.lockpatterngenerator_7.apk in.shick.lockpatterngenerator 2013-02-02
 in.shick.lockpatterngenerator_8.apk in.shick.lockpatterngenerator 2013-12-02
 in.shick.lockpatterngenerator_9.apk in.shick.lockpatterngenerator 2013-12-04
 indrora.atomic_13.apk indrora.atomic 2014-04-11
+indrora.atomic_14.apk indrora.atomic 2014-04-17
 info.guardianproject.browser_15.apk info.guardianproject.browser 2012-08-23
 info.guardianproject.browser_18.apk info.guardianproject.browser 2012-09-28
 info.guardianproject.browser_24.apk info.guardianproject.browser 2014-01-29
@@ -2161,6 +2181,8 @@ info.staticfree.android.units_9.apk info.staticfree.android.units 2012-02-16
 info.toyonos.hfr4droid_51.apk info.toyonos.hfr4droid 2012-08-29
 info.toyonos.hfr4droid_61.apk info.toyonos.hfr4droid 2012-08-29
 io.github.sanbeg.flashlight_1.apk io.github.sanbeg.flashlight 2014-01-07
+isn.fly.speedmeter_10.apk isn.fly.speedmeter 2014-04-22
+isn.fly.speedmeter_9.apk isn.fly.speedmeter 2014-04-15
 it.andreascarpino.hostisdown_4.apk it.andreascarpino.hostisdown 2014-03-05
 it.angrydroids.epub3reader_1.apk it.angrydroids.epub3reader 2014-01-24
 it.angrydroids.epub3reader_2.apk it.angrydroids.epub3reader 2014-01-31
@@ -2168,6 +2190,7 @@ it.devapp.android_1.apk it.devapp.android 2012-09-07
 it.ecosw.dudo_13.apk it.ecosw.dudo 2013-09-06
 it.ecosw.dudo_14.apk it.ecosw.dudo 2013-10-28
 it.ecosw.dudo_16.apk it.ecosw.dudo 2014-01-24
+it.ecosw.dudo_17.apk it.ecosw.dudo 2014-04-15
 it.ecosw.dudo_9.apk it.ecosw.dudo 2013-07-05
 it.gmariotti.android.apps.dashclock.extensions.battery_19.apk it.gmariotti.android.apps.dashclock.extensions.battery 2013-06-22
 it.iiizio.epubator_10.apk it.iiizio.epubator 2012-09-28
@@ -2236,6 +2259,7 @@ jp.yhonda_14.apk jp.yhonda 2014-03-02
 jpf.android.diary_1.apk jpf.android.diary 2013-10-24
 jpf.android.magiadni_7.apk jpf.android.magiadni 2014-03-05
 julianwi.javainstaller_1.apk julianwi.javainstaller 2014-04-08
+julianwi.javainstaller_2.apk julianwi.javainstaller 2014-04-15
 jupiter.broadcasting.live.tv_5.apk jupiter.broadcasting.live.tv 2012-09-14
 jupiter.broadcasting.live.tv_8.apk jupiter.broadcasting.live.tv 2013-04-08
 jupiter.broadcasting.live.tv_9.apk jupiter.broadcasting.live.tv 2013-04-22
@@ -2656,7 +2680,9 @@ net.vivekiyer.GAL_23.apk net.vivekiyer.GAL 2012-11-13
 net.vivekiyer.GAL_24.apk net.vivekiyer.GAL 2013-07-08
 net.vreeken.quickmsg_1.apk net.vreeken.quickmsg 2014-03-24
 net.vreeken.quickmsg_3.apk net.vreeken.quickmsg 2014-03-28
+net.vreeken.quickmsg_4.apk net.vreeken.quickmsg 2014-04-15
 net.vreeken.quickmsg_7.apk net.vreeken.quickmsg 2014-04-09
+net.vreeken.quickmsg_8.apk net.vreeken.quickmsg 2014-04-22
 net.wigle.wigleandroid_53.apk net.wigle.wigleandroid 2012-10-16
 net.wigle.wigleandroid_55.apk net.wigle.wigleandroid 2013-02-10
 net.wigle.wigleandroid_57.apk net.wigle.wigleandroid 2014-01-14
@@ -2682,6 +2708,9 @@ nl.mpcjanssen.simpletask_1073.apk nl.mpcjanssen.simpletask 2014-02-05
 nl.mpcjanssen.simpletask_1074.apk nl.mpcjanssen.simpletask 2014-02-16
 nl.mpcjanssen.simpletask_1075.apk nl.mpcjanssen.simpletask 2014-02-28
 nl.mpcjanssen.simpletask_1076.apk nl.mpcjanssen.simpletask 2014-03-18
+nl.mpcjanssen.simpletask_1077.apk nl.mpcjanssen.simpletask 2014-04-18
+nl.mpcjanssen.simpletask_1078.apk nl.mpcjanssen.simpletask 2014-04-20
+nl.mpcjanssen.simpletask_1079.apk nl.mpcjanssen.simpletask 2014-04-22
 nl.ttys0.simplec25k_7.apk nl.ttys0.simplec25k 2012-10-01
 nl.ttys0.simplec25k_8.apk nl.ttys0.simplec25k 2012-10-05
 no.rkkc.bysykkel_25.apk no.rkkc.bysykkel 2012-07-01
@@ -2743,6 +2772,7 @@ org.androidsoft.games.memory.kids_13.apk org.androidsoft.games.memory.kids 2011-
 org.androidsoft.games.memory.kids_14.apk org.androidsoft.games.memory.kids 2012-04-06
 org.androidsoft.games.memory.kids_16.apk org.androidsoft.games.memory.kids 2014-02-27
 org.androidsoft.games.slowit_10.apk org.androidsoft.games.slowit 2013-06-25
+org.andstatus.app_100.apk org.andstatus.app 2014-04-22
 org.andstatus.app_61.apk org.andstatus.app 2012-08-23
 org.andstatus.app_62.apk org.andstatus.app 2012-08-29
 org.andstatus.app_69.apk org.andstatus.app 2013-01-30
@@ -2967,6 +2997,7 @@ org.fdroid.fdroid_600.apk org.fdroid.fdroid 2014-02-28
 org.fdroid.fdroid_610.apk org.fdroid.fdroid 2014-03-19
 org.fdroid.fdroid_620.apk org.fdroid.fdroid 2014-04-01
 org.fdroid.fdroid_630.apk org.fdroid.fdroid 2014-04-07
+org.fdroid.fdroid_640.apk org.fdroid.fdroid 2014-04-22
 org.fdroid.fdroid_8.apk org.fdroid.fdroid 2011-01-17
 org.fdroid.fdroid_9.apk org.fdroid.fdroid 2011-01-30
 org.fdroid.k9_16025.apk org.fdroid.k9 2013-06-30
@@ -3348,6 +3379,7 @@ org.ppsspp.ppsspp_9801.apk org.ppsspp.ppsspp 2014-03-23
 org.ppsspp.ppsspp_9803.apk org.ppsspp.ppsspp 2014-03-23
 org.primftpd_2.apk org.primftpd 2013-03-05
 org.primftpd_3.apk org.primftpd 2014-02-25
+org.primftpd_4.apk org.primftpd 2014-04-22
 org.projectmaxs.main_1.apk org.projectmaxs.main 2013-10-10
 org.projectmaxs.main_10.apk org.projectmaxs.main 2013-12-22
 org.projectmaxs.main_11.apk org.projectmaxs.main 2014-01-07
@@ -3597,6 +3629,8 @@ org.quantumbadger.redreader_40.apk org.quantumbadger.redreader 2013-07-28
 org.quantumbadger.redreader_42.apk org.quantumbadger.redreader 2013-08-06
 org.quantumbadger.redreader_43.apk org.quantumbadger.redreader 2013-08-16
 org.quantumbadger.redreader_44.apk org.quantumbadger.redreader 2014-03-18
+org.quantumbadger.redreader_46.apk org.quantumbadger.redreader 2014-04-15
+org.quantumbadger.redreader_47.apk org.quantumbadger.redreader 2014-04-15
 org.quovadit.apps.andof_10.apk org.quovadit.apps.andof 2014-01-15
 org.quovadit.apps.andof_14.apk org.quovadit.apps.andof 2014-02-02
 org.quovadit.apps.andof_9.apk org.quovadit.apps.andof 2014-01-09
@@ -3636,6 +3670,7 @@ org.sixgun.ponyexpress_12.apk org.sixgun.ponyexpress 2011-11-24
 org.sixgun.ponyexpress_5.apk org.sixgun.ponyexpress 2011-01-31
 org.sixgun.ponyexpress_8.apk org.sixgun.ponyexpress 2011-02-09
 org.sixgun.ponyexpress_9.apk org.sixgun.ponyexpress 2011-03-26
+org.smblott.intentradio_14.apk org.smblott.intentradio 2014-04-15
 org.smblott.intentradio_6.apk org.smblott.intentradio 2014-03-15
 org.smblott.intentradio_7.apk org.smblott.intentradio 2014-03-30
 org.smblott.intentradio_9.apk org.smblott.intentradio 2014-04-07
@@ -3651,6 +3686,7 @@ org.sufficientlysecure.keychain_23000.apk org.sufficientlysecure.keychain 2014-0
 org.sufficientlysecure.keychain_23100.apk org.sufficientlysecure.keychain 2014-02-06
 org.sufficientlysecure.keychain_24000.apk org.sufficientlysecure.keychain 2014-03-27
 org.sufficientlysecure.keychain_25000.apk org.sufficientlysecure.keychain 2014-04-04
+org.sufficientlysecure.keychain_26000.apk org.sufficientlysecure.keychain 2014-04-20
 org.sufficientlysecure.localcalendar_1.apk org.sufficientlysecure.localcalendar 2013-03-16
 org.sufficientlysecure.localcalendar_2.apk org.sufficientlysecure.localcalendar 2013-04-16
 org.sufficientlysecure.localcalendar_3.apk org.sufficientlysecure.localcalendar 2013-07-01
@@ -3695,6 +3731,8 @@ org.tomdroid_9.apk org.tomdroid 2013-03-23
 org.torproject.android_51.apk org.torproject.android 2012-12-14
 org.torproject.android_70.apk org.torproject.android 2014-03-28
 org.torproject.android_79.apk org.torproject.android 2014-04-12
+org.torproject.android_80.apk org.torproject.android 2014-04-15
+org.torproject.android_86.apk org.torproject.android 2014-04-20
 org.totschnig.myexpenses_102.apk org.totschnig.myexpenses 2013-12-15
 org.totschnig.myexpenses_104.apk org.totschnig.myexpenses 2013-12-18
 org.totschnig.myexpenses_108.apk org.totschnig.myexpenses 2013-12-26
@@ -3705,6 +3743,8 @@ org.totschnig.myexpenses_122.apk org.totschnig.myexpenses 2014-02-11
 org.totschnig.myexpenses_129.apk org.totschnig.myexpenses 2014-02-24
 org.totschnig.myexpenses_130.apk org.totschnig.myexpenses 2014-02-24
 org.totschnig.myexpenses_131.apk org.totschnig.myexpenses 2014-02-27
+org.totschnig.myexpenses_135.apk org.totschnig.myexpenses 2014-04-19
+org.totschnig.myexpenses_136.apk org.totschnig.myexpenses 2014-04-22
 org.totschnig.myexpenses_33.apk org.totschnig.myexpenses 2012-10-31
 org.totschnig.myexpenses_34.apk org.totschnig.myexpenses 2013-01-02
 org.totschnig.myexpenses_35.apk org.totschnig.myexpenses 2013-01-28
@@ -3876,6 +3916,7 @@ org.xbmc.android.remote_730.apk org.xbmc.android.remote 2011-02-24
 org.xbmc.android.remote_768.apk org.xbmc.android.remote 2011-05-18
 org.xbmc.android.remote_808.apk org.xbmc.android.remote 2012-02-29
 org.xcsoar_92.apk org.xcsoar 2014-01-30
+org.xcsoar_93.apk org.xcsoar 2014-04-15
 org.yaaic_10.apk org.yaaic 2011-04-26
 org.yaaic_11.apk org.yaaic 2011-07-22
 org.yaaic_12.apk org.yaaic 2012-08-24
@@ -3887,6 +3928,7 @@ org.yaxim.androidclient_13.apk org.yaxim.androidclient 2012-02-26
 org.yaxim.androidclient_15.apk org.yaxim.androidclient 2013-02-12
 org.yaxim.androidclient_16.apk org.yaxim.androidclient 2013-03-04
 org.yaxim.androidclient_17.apk org.yaxim.androidclient 2014-01-31
+org.yaxim.androidclient_18.apk org.yaxim.androidclient 2014-04-15
 org.yaxim.androidclient_5.apk org.yaxim.androidclient 2011-01-15
 org.yaxim.androidclient_6.apk org.yaxim.androidclient 2011-03-09
 org.yaxim.androidclient_7.apk org.yaxim.androidclient 2011-03-30
@@ -4007,6 +4049,7 @@ ru.neverdark.silentnight_6.apk ru.neverdark.silentnight 2013-12-11
 ru.neverdark.silentnight_7.apk ru.neverdark.silentnight 2014-02-18
 ru.o2genum.coregame_3.apk ru.o2genum.coregame 2013-10-25
 ru.qrck.quitetaskmanager_2.apk ru.qrck.quitetaskmanager 2012-03-02
+ru.sash0k.bluetooth_terminal_1.apk ru.sash0k.bluetooth_terminal 2014-04-19
 ru.ttyh.neko259.notey_3.apk ru.ttyh.neko259.notey 2013-07-11
 ru.valle.btc_170.apk ru.valle.btc 2013-12-09
 ru.valle.btc_190.apk ru.valle.btc 2013-12-31
@@ -4023,6 +4066,7 @@ se.erikofsweden.findmyphone_11.apk se.erikofsweden.findmyphone 2012-11-09
 se.erikofsweden.findmyphone_12.apk se.erikofsweden.findmyphone 2013-07-01
 se.johanhil.clipboard_2.apk se.johanhil.clipboard 2011-03-10
 se.johanhil.duckduckgo_1.apk se.johanhil.duckduckgo 2011-03-10
+se.norenh.rkfread_2.apk se.norenh.rkfread 2014-04-17
 se.peterbjorkman.android.trafikinfo_12.apk se.peterbjorkman.android.trafikinfo 2011-01-27
 se.peterbjorkman.android.trafikinfo_13.apk se.peterbjorkman.android.trafikinfo 2011-02-02
 se.sandos.android.delayed_18.apk se.sandos.android.delayed 2012-07-26

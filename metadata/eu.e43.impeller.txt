@@ -7,14 +7,10 @@ Issue Tracker:https://e43oss.atlassian.net/browse/IMP
 Auto Name:Impeller
 Summary:Client for the Pump.io network
 Description:
-A client for [http://pump.io pump.io],
-a stream server for distributed social networking and microblogging.
-Register a [http://pump.io/tryit.html free account] at a participating website
-and follow some [https://static.jpope.org/users.html people],
+A client for [http://pump.io pump.io], a stream server for distributed
+social networking and microblogging. Register a [http://pump.io/tryit.html free account]
+at a participating website and follow some [https://static.jpope.org/users.html people],
 before using the app.
-
-Status: Alpha. Not all the functions of the web UI are available, such as
-following people or viewing their profiles.
 .
 
 Repo Type:git
@@ -168,6 +164,16 @@ Build:0.8.7,8007
     commit=v0.8.7
     gradle=yes
 
+Build:0.9a,9001
+    commit=v0.9a
+    submodules=yes
+    gradle=yes
+
+Build:0.9b,9002
+    commit=v0.9b
+    submodules=yes
+    gradle=yes
+
 Maintainer Notes:
 Although in auto mode, builds for 0.8.0 and 0.8.1 were skipped because source
 code was not pushed to the upstream repo.
@@ -175,6 +181,6 @@ code was not pushed to the upstream repo.
 
 Auto Update Mode:Version v%v
 Update Check Mode:Tags
-Current Version:0.8.7
-Current Version Code:8007
+Current Version:0.9b
+Current Version Code:9002
 

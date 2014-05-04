@@ -1,7 +1,7 @@
 Categories:Internet
 License:GPLv3
 Web Site:http://quickmsg.vreeken.net
-Source Code:http://quickmsg.vreeken.net/QuickMSG.git
+Source Code:
 Issue Tracker:
 
 Auto Name:QuickMSG
@@ -22,8 +22,16 @@ Build:QuickMSG-20140326,3
     commit=b3514746aa62852c1bfd2b191bc2910050fd17d3
     init=rm -f build.xml
 
+Build:QuickMSG-20140330,4
+    commit=6eed95553216b50e36b737a86e086a3db519f314
+    init=rm -f build.xml
+
 Build:QuickMSG-20140408,7
     commit=adc131ceb4d256886468e6731a7708138e242de3
+    init=rm -f build.xml
+
+Build:QuickMSG-20140419,8
+    commit=41b52cf7f26a5603a19c7a3ff05ea0bccdb84a4c
     init=rm -f build.xml
 
 Maintainer Notes:
@@ -32,6 +40,6 @@ As of version QuickMSG-20140330,4 there are no longer pre-built jar files.
 
 Auto Update Mode:None
 Update Check Mode:RepoManifest
-Current Version:QuickMSG-20140408
-Current Version Code:7
+Current Version:QuickMSG-20140419
+Current Version Code:8
 
