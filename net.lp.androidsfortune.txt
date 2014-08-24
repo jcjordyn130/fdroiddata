@@ -1,0 +1,27 @@
+AntiFeatures:
+Categories:Multimedia
+License:GPLv3
+Web Site:https://launchpad.net/androidsfortune
+Source Code:https://code.launchpad.net/androidsfortune
+Issue Tracker:https://bugs.launchpad.net/androidsfortune
+Donate:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JLH3QJWFFFKDA&lc=BE&item_name=Android%27s%20Fortune%20Launchpad%20project%20page&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+Flattr:http://flattr.com/thing/299386/Androids-Fortune
+
+Summary:Show a random adage
+Description:
+The well-known Fortune for Android: print a random, hopefully interesting,
+adage.
+.
+
+Repo Type:bzr
+Repo:lp:androidsfortune
+
+Build:1.1.9,18
+    disable=not ready
+    commit=
+    prebuild=rm libs/FlurryAgent.jar && \
+        echo "android.library.reference.1=$$FinfAgent$$" >> project.properties
+
+
+Update Check Mode:RepoManifest
+

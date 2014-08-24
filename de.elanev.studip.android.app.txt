@@ -1,0 +1,41 @@
++Categories:Inernet,Office
++License:GPLv3
++Web Site:https://github.com/elan-ev/StudIPAndroidApp
++Source Code:https://github.com/elan-ev/StudIPAndroidApp
++Issue Tracker:https://github.com/elan-ev/StudIPAndroidApp/issues
++
++Auto Name:Stud.IP mobil
++Summary:Client for StudIP eLearning System
++Description:
++Client for StudIP eLearning System utilizing the REST-API-Plugin,
++see [https://github.com/studip/studip-rest.ip].
++.
++
++Repo Type:git
++Repo:https://github.com/elan-ev/StudIPAndroidApp.git
++
++Build:0.8.5.11,8511
++    commit=v0.8.5.11
++    gradle=yes
++    submodule=yes
++
++Build:0.8.6.8,8608
++    commit=v0.8.6.8
++    gradle=yes
++    submodule=yes
++
++Maintainer Notes:
++
++
++find src -type f -print0 | xargs -0 sed -i '/Crashlytics/d'
++            versionCode versionMajor * 10000 + versionMinor * 1000 + versionPatch * 100 + versionBuild
++            versionName "${versionMajor}.${versionMinor}.${versionPatch}"
++
++Tags:
++v0.8.6.1-alpha
++v0.8.6.8
++.
++
++#Auto Update Mode:Version v%v
++Update Check Mode:Tags
+

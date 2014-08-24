@@ -1,0 +1,107 @@
+Categories:Multimedia
+License:GPLv3
+Web Site:http://droidparty.net/
+Source Code:https://github.com/chr15m/PdDroidParty
+Issue Tracker:https://github.com/chr15m/PdDroidParty/issues
+
+Auto Name:PdDroid Party
+Summary:Run PureData patches with native GUIs emulated
+Description:
+Pure Data (aka Pd) is a visual programming language. Pd enables
+musicians, visual artists, performers, researchers, and developers
+to create software graphically, without writing lines of code. Pd
+is used to process and generate sound, video, 2D/3D graphics, and
+interface sensors, input devices, and MIDI.
+.
+
+Repo Type:git
+Repo:https://github.com/chr15m/PdDroidParty.git
+
+Build:1.0,1
+    commit=d99696fd5186365035360c7b7439ec11d68b4203
+    submodules=yes
+    buildjni=yes
+    target=android-19
+    prebuild=pushd pd-for-android/PdCore && android update project --path . && popd && android update project --name PdDroidParty --path . 
+Maintainer Notes:
+WARNING: Found ZIP file at res/raw/abstractions.zip
+WARNING: Found unknown compressed or binary file at pd-for-android/midi/midi3v3.fzz
+WARNING: Found JAR file at pd-for-android/midi/AndroidMidiTest/libs/easymock-3.1.jar
+WARNING: Found JAR file at pd-for-android/midi/UsbMidiTest/libs/android-support-v4.jar
+WARNING: Found ZIP file at pd-for-android/CircleOfFifths/res/raw/patch.zip
+WARNING: Found ZIP file at pd-for-android/ScenePlayer/res/raw/abstractions.zip
+WARNING: Found ZIP file at pd-for-android/ScenePlayer/res/raw/atsuke.zip
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/armeabi/librj_barkflux_accum_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/armeabi/librj_senergy_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/armeabi/librj_zcr_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/armeabi/librj_accum.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/armeabi/librj_centroid_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/x86/librj_barkflux_accum_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/x86/librj_senergy_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/x86/librj_zcr_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/x86/librj_accum.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/x86/librj_centroid_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/armeabi-v7a/librj_barkflux_accum_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/armeabi-v7a/librj_senergy_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/armeabi-v7a/librj_zcr_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/armeabi-v7a/librj_accum.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/armeabi-v7a/librj_centroid_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/mips/librj_barkflux_accum_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/mips/librj_senergy_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/mips/librj_zcr_tilde.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/mips/librj_accum.so
+ERROR: Found shared library at pd-for-android/ScenePlayer/libs/mips/librj_centroid_tilde.so
+WARNING: Found ZIP file at pd-for-android/PdCore/res/raw/extra_abs.zip
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libexpr_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libloop_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libpdnative.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libpd.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libsigmund_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libpdnativeopensl.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libfiddle_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libchoice.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libfexpr_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/liblrshift_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libexpr.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libpique.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi/libbonk_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libexpr_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libloop_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libpdnative.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libpd.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libsigmund_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libpdnativeopensl.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libfiddle_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libchoice.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libfexpr_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/liblrshift_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libexpr.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libpique.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/x86/libbonk_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libexpr_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libloop_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libpdnative.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libpd.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libsigmund_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libpdnativeopensl.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libfiddle_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libchoice.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libfexpr_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/liblrshift_tilde.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libexpr.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libpique.so
+ERROR: Found shared library at pd-for-android/PdCore/libs/armeabi-v7a/libbonk_tilde.so
+WARNING: Found JAR file at pd-for-android/PdCore/jni/libpd/libs/asm-3.3.jar
+WARNING: Found JAR file at pd-for-android/PdCore/jni/libpd/libs/easymock-3.0.jar
+WARNING: Found JAR file at pd-for-android/PdCore/jni/libpd/libs/cglib-2.2.jar
+WARNING: Found JAR file at pd-for-android/PdCore/jni/libpd/libs/objenesis-1.2.jar
+WARNING: Found JAR file at pd-for-android/PdCore/jni/libpd/dist/libpd.jar
+WARNING: Found JAR file at libs/svg-android.jar
+Could not build app cx.mccormick.pddroidparty due to BuildException: "Can't build due to 59 errors while scanning"
+.
+
+Auto Update Mode:None
+Update Check Mode:RepoManifest
+Current Version:1.0
+Current Version Code:1
+
